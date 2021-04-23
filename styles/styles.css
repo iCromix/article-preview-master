@@ -201,13 +201,19 @@ span {
 
 .attribution {
     font-family: inherit;
-    font-size: 1.05em;
     display: block;
     background: #fff;
     padding: 1em;
     border-radius: 10px;
     box-shadow: rgba(72, 85, 107, 0.2) 0px 15px 100px 0px;
 }
+
+.attribution p {
+    margin: 0;
+    font-size: 1.25em;
+}
+
+
 
     /* Desktop Popup  */
 .popup {
