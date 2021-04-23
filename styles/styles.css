@@ -18,6 +18,10 @@ body {
     align-items: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 img {
     max-width: 100%;
 }
@@ -39,6 +43,7 @@ h2 {
 p {
     color: hsl(214, 17%, 51%);
     line-height: 1.7;
+    margin-bottom: 0;
 }
 
 span {
